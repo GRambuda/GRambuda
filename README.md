@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently studying machine learning.
 - 🎯 My goal is to effectively tranform data and apply statistical analysis to find trends and solve problems.
-- 📫 How to reach me on [Twitter](https://twitter.com/GigiRivani)
+- 📫 How to reach me on 
 
 ![My Skills](https://skillicons.dev/icons?i=py,r,mysql,postgres,git)
 
